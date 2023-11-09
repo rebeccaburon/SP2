@@ -1,0 +1,4 @@
+Registration number, Make, Model, Number of Doors.
+DR17872, BMW, X5, 4
+RG85769, Audi, Q8, 4
+PL65728, Mercedes, 300 SLR, 2
